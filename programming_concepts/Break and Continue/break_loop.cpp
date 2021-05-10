@@ -24,7 +24,7 @@ int main () {
         int choice;
         choice = menu();
         if (choice == 5 ) { break; }
-    } while(1)
+    } while(1);
     return 0;
 }
 
